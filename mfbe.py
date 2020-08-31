@@ -89,7 +89,7 @@ def main():
         print(f'\n    Total: {len(not_moved)}')
     else:
         print('    -')
-    print(f'\n    File Telah Berada Di Direktory {dest}')
+    print(f'\n    File Yang Telah Berada Di Direktory {dest}')
     if len(located) != 0:
         for l in located:
             print(f'    {located.index(l)+1}.) {l}')
