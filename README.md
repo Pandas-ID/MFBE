@@ -5,7 +5,7 @@ Berawal dari sebuah kendala saat mencari sebuah file,akhirnya munculah sebuah id
 $ pkg install git<br>
 $ pkg install python<br>
 $ git clone https://github.com/Pandas-ID/MFBE<br>
-$ cd MFBE
+$ cd MFBE<br>
 $ python mfbe.py
 
 # Cara Menggunakan
