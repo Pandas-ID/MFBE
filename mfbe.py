@@ -69,7 +69,6 @@ def main():
                     shutil.move(x['path'], dest)
                     moved.append(x['name'])
                     located.append(x['name']+' (Baru Dipindahkan)')
-                    print(f'    {x["name"]} Telah Dipindahkan')
     else:
         input('    Masukan Pilihan Yang Disediakan')
         main()
