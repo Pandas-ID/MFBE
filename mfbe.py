@@ -6,6 +6,8 @@ Blog   : https://pandasid.blogspot.com
 Author : Pandas ID
 Deskription: Silahkan kalian pelajari,kalau mau re-upload jangan lupa untuk mencantumkan
 github pembuatnya (github saya)
+
+Semoga bermanfaat...
 '''
 
 
