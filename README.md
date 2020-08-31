@@ -1,4 +1,4 @@
-# MFBE
+# MFBE (Move Files By Ekstansion)
 Berawal dari sebuah kendala saat mencari sebuah file,akhirnya munculah sebuah ide untuk memindahkan semua file dengan ekstansi yang sama ke dalam folder yang telah ditentukan.
 
 # Cara Menginstall
